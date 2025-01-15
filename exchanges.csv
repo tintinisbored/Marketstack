@@ -1,0 +1,68 @@
+name,acronym,mic,country,country_code,city,website,timezone_timezone,timezone_abbr,timezone_abbr_dst,currency_code,currency_symbol,currency_name
+NASDAQ - ALL MARKETS,NASDAQ,XNAS,,US,NEW YORK,www.nasdaq.com,America/New_York,EST,EDT,USD,$,US Dollar
+"NEW YORK STOCK EXCHANGE, INC.",NYSE,XNYS,,US,NEW YORK,www.nyse.com,America/New_York,EST,EDT,USD,$,US Dollar
+NYSE ARCA,NYSE,ARCX,,US,NEW YORK,www.nyse.com,America/New_York,EST,EDT,USD,$,US Dollar
+OTC LINK ATS - OTC MARKETS,,OTCM,,US,NEW YORK,www.otcmarkets.com,America/New_York,EST,EDT,USD,$,US Dollar
+NYSE MKT LLC,AMEX,XASE,,US,NEW YORK,www.nyse.com,America/New_York,EST,EDT,USD,$,US Dollar
+CBOE GLOBAL MARKETS INC.,CBOE,XCBO,,US,CHICAGO,http://markets.cboe.com/,America/Chicago,CDT,CDT,USD,$,US Dollar
+US Mutual Funds,NMFQS,NMFQS,USA,US,New York,,America/New_York,EST,EDT,USD,$,US Dollar
+OTHER OTC,,OOTC,,US,WASHINGTON,www.otcbb.com,America/New_York,EST,EDT,USD,$,US Dollar
+OTC GREY MARKET,,PSGM,,US,NEW YORK,www.otcmarkets.com,America/New_York,EST,EDT,USD,$,US Dollar
+OTCQB MARKETPLACE,,OTCB,,US,NEW YORK,www.otcmarkets.com,America/New_York,EST,EDT,USD,$,US Dollar
+OTCQX MARKETPLACE,,OTCQ,,US,NEW YORK,www.otcmarkets.com,America/New_York,EST,EDT,USD,$,US Dollar
+OTC PINK CURRENT,,PINC,,US,NEW YORK,www.otcmarkets.com,America/New_York,EST,EDT,USD,$,US Dollar
+INVESTORS EXCHANGE,IEX,IEXG,,US,NEW YORK,www.iex.io,America/New_York,EST,EDT,USD,$,US Dollar
+BOLSA DE COMERCIO DE BUENOS AIRES,BCBA,XBUE,,AR,BUENOS AIRES,www.bcba.sba.com.ar,America/Argentina/Buenos_Aires,-03,-03,ARS,AR$,Argentine Peso
+EURONEXT - EURONEXT BRUSSELS,,XBRU,,BE,BRUSSELS,www.euronext.com,Europe/Brussels,CET,CEST,EUR,€,Euro
+NASDAQ TALLINN AS,,XTAL,,EE,TALLINN,www.nasdaqbaltic.com,Europe/Tallinn,EET,EEST,EUR,€,Euro
+NASDAQ HELSINKI LTD,,XHEL,,FI,HELSINKI,www.nasdaqomxnordic.com,Europe/Helsinki,EET,EEST,EUR,€,Euro
+EURONEXT - EURONEXT PARIS,,XPAR,,FR,PARIS,www.euronext.com,Europe/Paris,CET,CEST,EUR,€,Euro
+DEUTSCHE BOERSE AG,,XFRA,,DE,FRANKFURT,www.deutsche-boerse.com,Europe/Berlin,CET,CEST,EUR,€,Euro
+BOERSE STUTTGART,,XSTU,,DE,STUTTGART,www.boerse-stuttgart.de,Europe/Berlin,CET,CEST,EUR,€,Euro
+Deutsche Börse Xetra,XETR,XETRA,Germany,DE,Frankfurt,,Europe/Berlin,CET,CEST,EUR,€,Euro
+BORSA ITALIANA S.P.A.,,XMIL,,IT,MILAN,www.borsaitaliana.it,Europe/Rome,CET,CEST,EUR,€,Euro
+NASDAQ RIGA AS,,XRIS,,LV,RIGA,www.nasdaqbaltic.com,Europe/Riga,EET,EEST,EUR,€,Euro
+AB NASDAQ VILNIUS,,XLIT,,LT,VILNIUS,www.nasdaqbaltic.com,Europe/Vilnius,EET,EEST,EUR,€,Euro
+EURONEXT - EURONEXT AMSTERDAM,,XAMS,,NL,AMSTERDAM,www.euronext.com,Europe/Amsterdam,CET,CEST,EUR,€,Euro
+WARSAW STOCK EXCHANGE/EQUITIES/MAIN MARKET,WSE,XWAR,,PL,WARSAW,www.gpw.pl,Europe/Warsaw,CET,CEST,EUR,€,Euro
+EURONEXT - EURONEXT LISBON,,XLIS,,PT,LISBON,www.euronext.com,Europe/Lisbon,WET,WEST,EUR,€,Euro
+BELGRADE STOCK EXCHANGE,BELEX,XBEL,,RS,BELGRADE,www.belex.rs,Europe/Belgrade,CET,CEST,EUR,€,Euro
+BME - BOLSAS Y MERCADOS ESPANOLES,BME,BMEX,,ES,MADRID,www.bolsasymercados.es,Europe/Madrid,CET,CEST,EUR,€,Euro
+NASDAQ STOCKHOLM AB,,XSTO,,SE,STOCKHOLM,www.nasdaqomxnordic.com,Europe/Stockholm,CET,CEST,EUR,€,Euro
+BAHRAIN BOURSE,BSE,XBAH,,BH,MANAMA,www.bahrainbourse.com.bh,Asia/Bahrain,+03,+03,BHD,BD,Bahraini Dinar
+B3 S.A. - BRASIL BOLSA BALCAO,B3,BVMF,,BR,SAO PAULO,www.b3.com.br,America/Sao_Paulo,-03,-03,BRL,R$,Brazilian Real
+TORONTO STOCK EXCHANGE,TSX,XTSE,,CA,TORONTO,www.tse.com,America/Toronto,EST,EDT,CAD,CA$,Canadian Dollar
+CANADIAN SECURITIES EXCHANGE,CSE LISTED,XCNQ,,CA,TORONTO,www.thecse.com,America/Toronto,EST,EDT,CAD,CA$,Canadian Dollar
+SANTIAGO STOCK EXCHANGE,,XSGO,,CL,SANTIAGO,www.bolsadesantiago.com,America/Santiago,-03,-04,CLP,CL$,Chilean Peso
+SHANGHAI STOCK EXCHANGE,SSE,XSHG,,CN,SHANGHAI,www.sse.com.cn,Asia/Shanghai,CST,CST,CNY,CN¥,Chinese Yuan
+SHENZHEN STOCK EXCHANGE,,XSHE,,CN,SHENZHEN,www.szse.cn,Asia/Shanghai,CST,CST,CNY,CN¥,Chinese Yuan
+BOLSA DE VALORES DE COLOMBIA,BVC,XBOG,,CO,BOGOTA,www.bvc.com.co,America/New_York,EST,EDT,COP,CO$,Colombian Peso
+NASDAQ COPENHAGEN A/S,,XCSE,,DK,COPENHAGEN,www.nasdaqomxnordic.com,Europe/Copenhagen,CET,CEST,DKK,Dkr,Danish Krone
+EGYPTIAN EXCHANGE,CASE,XCAI,,EG,CAIRO,www.egyptse.com,Africa/Cairo,EET,EET,EGP,EGP,Egyptian Pound
+HONG KONG EXCHANGES AND CLEARING LTD,HKEX,XHKG,,HK,HONG KONG,www.hkex.com.hk,Asia/Hong_Kong,HKT,HKT,HKD,HK$,Hong Kong Dollar
+NASDAQ ICELAND HF.,ICEX,XICE,,IS,REYKJAVIK,www.nasdaqomxnordic.com,Atlantic/Reykjavik,GMT,GMT,ISK,Ikr,Icelandic Króna
+BSE LTD,MSE,XBOM,,IN,MUMBAI,www.bseindia.com,Asia/Kolkata,IST,IST,INR,Rs,Indian Rupee
+NATIONAL STOCK EXCHANGE OF INDIA,NSE,XNSE,,IN,MUMBAI,www.nseindia.com,Asia/Kolkata,IST,IST,INR,Rs,Indian Rupee
+INDONESIA STOCK EXCHANGE,IDX,XIDX,,ID,JAKARTA,www.idx.co.id,Asia/Jakarta,WIB,WIB,IDR,Rp,Indonesian Rupiah
+TEL AVIV STOCK EXCHANGE,TASE,XTAE,,IL,TEL AVIV,www.tase.co.il,Asia/Jerusalem,IST,IDT,ILS,₪,Israeli New Sheqel
+NAGOYA STOCK EXCHANGE,NSE,XNGO,,JP,NAGOYA,www.nse.or.jp,Asia/Tokyo,JST,JST,JPY,¥,Japanese Yen
+FUKUOKA STOCK EXCHANGE,,XFKA,,JP,FUKUOKA,www.fse.or.jp,Asia/Tokyo,JST,JST,JPY,¥,Japanese Yen
+SAPPORO SECURITIES EXCHANGE,,XSAP,,JP,SAPPORO,www.sse.or.jp,Asia/Tokyo,JST,JST,JPY,¥,Japanese Yen
+BURSA MALAYSIA,,XKLS,,MY,KUALA LUMPUR,www.bursamalaysia.com,Asia/Kuala_Lumpur,+08,+08,MYR,RM,Malaysian Ringgit
+BOLSA MEXICANA DE VALORES (MEXICAN STOCK EXCHANGE),,XMEX,,MX,MEXICO,www.bmv.com.mx,America/Mexico_City,CST,CDT,MXN,MX$,Mexican Peso
+NZX - ALL MARKETS,NZX,XNZE,,NZ,AUCKLAND,www.nzx.com,Pacific/Auckland,NZDT,NZST,NZD,NZ$,New Zealand Dollar
+THE NIGERIAN STOCK EXCHANGE,NSE,XNSA,,NG,LAGOS,www.nse.com.ng,Africa/Lagos,WAT,WAT,NGN,₦,Nigerian Naira
+OSLO BORS,,XOSL,,NO,OSLO,www.oslobors.no,Europe/Oslo,CET,CEST,NOK,Nkr,Norwegian Krone
+BOLSA DE VALORES DE LIMA,BVL,XLIM,,PE,LIMA,www.bvl.com.pe,America/New_York,EST,EDT,PEN,S/.,Peruvian Nuevo Sol
+QATAR EXCHANGE,DSM,DSMD,,QA,DOHA,www.qatarexchange.qa,Asia/Qatar,+03,+03,QAR,QR,Qatari Rial
+MOSCOW EXCHANGE - ALL MARKETS,MOEX,MISX,,RU,MOSCOW,www.moex.com,Europe/Moscow,MSK,MSK,RUB,RUB,Russian Ruble
+SAUDI STOCK EXCHANGE,,XSAU,,SA,RIYADH,www.tadawul.com.sa,Asia/Riyadh,+03,+03,SAR,SR,Saudi Riyal
+SINGAPORE EXCHANGE,SGX,XSES,,SG,SINGAPORE,www.sgx.com,Asia/Singapore,+08,+08,SGD,S$,Singapore Dollar
+JOHANNESBURG STOCK EXCHANGE,JSE,XJSE,,ZA,JOHANNESBURG,www.jse.co.za,Africa/Johannesburg,SAST,SAST,ZAR,R,South African Rand
+KOREA EXCHANGE (STOCK MARKET),KRX SM,XKRX,,KR,SEOUL,http://eng.krx.co.kr,Asia/Seoul,KST,KST,KRW,₩,South Korean Won
+SIX SWISS EXCHANGE,SIX,XSWX,,CH,ZURICH,www.six-group.com/en/site/exchanges.html,Europe/Zurich,CET,CEST,CHF,CHF,Swiss Franc
+TAIWAN STOCK EXCHANGE,TWSE,XTAI,,TW,TAIPEI,www.twse.com.tw/en/,Asia/Taipei,CST,CST,TWD,NT$,New Taiwan Dollar
+STOCK EXCHANGE OF THAILAND,SET,XBKK,,TH,BANGKOK,www.set.or.th,Asia/Bangkok,+07,+07,THB,฿,Thai Baht
+BORSA ISTANBUL,,XIST,,TR,ISTANBUL,www.borsaistanbul.com,Europe/Istanbul,+03,+03,TRY,TL,Turkish Lira
+LONDON STOCK EXCHANGE,LSE,XLON,,GB,LONDON,www.londonstockexchange.com,Europe/London,GMT,BST,GBP,£,British Pound Sterling
+HOCHIMINH STOCK EXCHANGE,HOSE,XSTC,,VN,HO CHI MINH CITY,www.hsx.vn,Asia/Ho_Chi_Minh,+07,+07,VND,₫,Vietnamese Dong
